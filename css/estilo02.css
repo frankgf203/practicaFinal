@@ -1,0 +1,34 @@
+@font-face {
+    font-family: Lugrasimo;
+    src: url('../fuentes/Lugrasimo-Regular.ttf');
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+#panel{
+    margin: 8px 820px;
+    padding: 30px 40px;
+    text-align: justify;
+    border-style: solid;
+    background-color: #ccc;
+}
+img{
+    width: 200px;
+}
+.titulo{
+    font-size: 20px;
+    text-align: left;
+    font-family: Lugrasimo;
+}
+.titulo.h1{
+    box-shadow: 2px 2px 2px #e8f7b0;
+}
+.cuerpo{
+    font-family: 'Segoe UI', Tahoma, Geneva, sans-serif;
+    font-size: 12px;
+}
+.datos{
+    font-family: 'Segoe UI', Tahoma, Geneva, sans-serif;
+    font-size: 12px;
+}

@@ -1,0 +1,13 @@
+#intro{
+    margin: 30px auto;
+    padding: 50px;
+    border-radius: 10px;
+    background-color: #000;
+    color: white;
+    text-align: center;
+}
+.punto{
+    margin: 0 auto;
+    border: 2px dashed salmon;
+    color: gray;
+}

@@ -1,0 +1,30 @@
+*{
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    box-shadow:gray;
+    border-radius: 4px;
+}
+header{
+    color: #fff;
+    background-color: gray;
+    padding: 8px;
+    margin: 0 830px;
+    text-align: center;
+    line-height: 1,5em;
+    box-shadow: 0 0 10px gray;
+}
+section{
+    font-style: italic;
+    text-align: justify;
+    padding: 8px;
+    margin: 0 830px;
+    box-shadow: 0 0 10px gray;
+}
+footer{
+    color: #fff;
+    background-color: rgb(219, 181, 181);
+    text-align: center;
+    padding: 8px;
+    margin: 0 830px;
+    box-shadow: 0 0 10px gray;
+}
